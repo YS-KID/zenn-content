@@ -3,7 +3,7 @@ title: "Claude Code の権限モード 6 種類の違いと選び方(defaultMode
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "defaultmode", "acceptedits", "permissions"]
-published: true
+published: false
 ---
 
 Claude Code の `permissions.defaultMode` は、「allow にも deny にも一致しなかった操作をどう扱うか」を決める設定です。指定できる値は **6 つ**あります。

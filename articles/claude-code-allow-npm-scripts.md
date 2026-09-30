@@ -3,7 +3,7 @@ title: "Claude Code で npm run 系のコマンドをまとめて許可する書
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "allow", "npmrun", "permissions"]
-published: true
+published: false
 ---
 
 `npm run lint`、`npm run test`、`npm run build` のたびに確認ダイアログが出るのは、Claude Code の作業テンポを落とす最大の要因です。package.json の scripts は自分で書いたコマンドなので、まとめて自動許可にして問題ありません。

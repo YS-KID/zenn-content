@@ -3,7 +3,7 @@ title: "コーディング AI で最初に入れるべき MCP サーバー 5 選
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "mcp", "playwright", "context7", "github"]
-published: true
+published: false
 ---
 
 MCP サーバーは何百種類も公開されていますが、コーディングエージェントの日常作業で「入れて効果を実感できる」ものは限られます。この記事では、Claude Code・Codex・Gemini CLI のどれでも使え、導入直後から役に立つサーバーを 5 つに絞って紹介します。

@@ -3,7 +3,7 @@ title: "GitHub Actions で Claude Code を動かす:claude-code-action の導入
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "githubactions", "ci"]
-published: true
+published: false
 ---
 
 Issue に「@claude この不具合を直して」とコメントすると、Claude Code が修正を実装して PR を作る。PR が開かれると自動でレビューコメントが付く。こうした仕組みは、公式の **claude-code-action** を使うと 1 つのワークフローファイルで実現できます。

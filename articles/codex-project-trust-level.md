@@ -3,7 +3,7 @@ title: "Codex の「このフォルダを信頼しますか」を消す:trust_le
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "trustlevel"]
-published: true
+published: false
 ---
 
 clone したばかりのリポジトリで `codex` を起動すると、そのフォルダを信頼するかどうかを聞かれます。この答えは `~/.codex/config.toml` に記録され、プロジェクト内の `.codex/` 配下の設定を読むかどうかを左右します。

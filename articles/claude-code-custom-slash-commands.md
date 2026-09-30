@@ -3,7 +3,7 @@ title: "Claude Code のカスタムスラッシュコマンド(スキル)を作�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode"]
-published: true
+published: false
 ---
 
 「このプロジェクトのルールでコードレビューして」「Conventional Commits 形式でコミットメッセージを書いて」のように、毎回同じ長い指示を打っているなら、それはスラッシュコマンドにする候補です。

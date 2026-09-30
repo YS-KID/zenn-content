@@ -3,7 +3,7 @@ title: "Codex クラウド版で GitHub リポジトリのタスクを任せる:
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "github", "pr"]
-published: true
+published: false
 ---
 
 Codex のクラウド版は、手元のマシンではなく OpenAI 側のコンテナでリポジトリをクローンし、タスクを実行して結果を PR として返す仕組みです。「Issue を 3 件まとめて渡して、PR が 3 本返ってくる」ような使い方ができ、ローカルの作業と並行して進められます。

@@ -3,7 +3,7 @@ title: "Codex CLI の approval mode と sandbox 設定の違い:安全に自動�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli"]
-published: true
+published: false
 ---
 
 Codex CLI の安全性は、**承認ポリシー(approval)** と **サンドボックス(sandbox)** の 2 つの独立した設定で決まります。この 2 つを混同すると、「確認なしにしたのにコマンドが失敗する」「確認しているのにファイルが書き換わっていた」といった混乱が起きます。

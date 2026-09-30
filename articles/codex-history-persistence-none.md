@@ -3,7 +3,7 @@ title: "Codex の会話履歴をディスクに残さない history.persistence 
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "history"]
-published: true
+published: false
 ---
 
 共有マシンや検証用の環境で Codex を使うとき、「会話の内容をディスクに残したくない」「ログイン情報をファイルに書きたくない」という要件が出ます。Codex CLI にはそれぞれに対応する設定があります。

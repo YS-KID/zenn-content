@@ -3,7 +3,7 @@ title: "Claude Code の bypassPermissions を安全に使える条件"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "bypasspermissions", "dangerouslyskippermissions"]
-published: true
+published: false
 ---
 
 `--dangerously-skip-permissions` は確認プロンプトを消せますが、公式ドキュメントが示す使用条件ははっきりしています。コンテナ、VM、dev container のような隔離環境で、Claude Code がホストを壊せない状況でのみ使うことです。

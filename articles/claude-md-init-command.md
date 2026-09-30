@@ -3,7 +3,7 @@ title: "Claude Code の /init が生成する CLAUDE.md の中身と、直すべ
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "init"]
-published: true
+published: false
 ---
 
 Claude Code を新しいリポジトリで使い始めるとき、最初に打つコマンドが `/init` です。実行すると Claude がコードベースを調べて `CLAUDE.md` を書いてくれますが、生成された内容をそのまま放置すると、長すぎて指示が効かなくなることがあります。

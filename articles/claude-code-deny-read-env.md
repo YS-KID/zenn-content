@@ -3,7 +3,7 @@ title: "Claude Code で .env を読ませない deny 設定(Read ルールの書
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "env", "deny", "permissions"]
-published: true
+published: false
 ---
 
 `.env` には API キーやデータベースのパスワードが入っています。Claude Code はワーキングディレクトリ内のファイル読み取りを確認なしで実行するため、放っておくと `.env` の中身がそのままモデルへの入力に含まれます。

@@ -3,7 +3,7 @@ title: "Claude Code でどの CLAUDE.md がいつ読まれたかを記録する 
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "instructionsloaded", "claudemd"]
-published: true
+published: false
 ---
 
 「このルール、本当に読み込まれているのか」「サブディレクトリの CLAUDE.md はいつ読まれたのか」を調べるとき、`/context` の一覧だけでは時系列が分かりません。Claude Code には、指示ファイルが読み込まれるたびに発火する **InstructionsLoaded** フックがあり、ファイル名・理由・トリガーになったファイルを外部に記録できます。

@@ -3,7 +3,7 @@ title: "Claude Code のトランスクリプトはいつ消えるか:cleanupPeri
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "cleanupperioddays", "settingsjson"]
-published: true
+published: false
 ---
 
 Claude Code は、会話のすべて(メッセージ、ツール呼び出し、ツールの結果)を `~/.claude/projects/<project>/<session>.jsonl` に **平文** で保存します。ツールが `.env` を読めばその中身が、コマンドがトークンを出力すればその値が、そのままファイルに残ります。

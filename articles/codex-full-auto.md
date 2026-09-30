@@ -3,7 +3,7 @@ title: "Codex の --full-auto は何をするのか:承認とサンドボック�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "fullauto"]
-published: true
+published: false
 ---
 
 `codex --full-auto` は「全部自動でやる」という名前に見えますが、実際には**ワークスペースの中だけ自由にしてよい**という設定です。ワークスペースの外に書き込んだり、ネットワークに出たりすることは、サンドボックスによって引き続き制限されます。

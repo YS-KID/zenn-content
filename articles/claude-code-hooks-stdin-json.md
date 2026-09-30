@@ -3,7 +3,7 @@ title: "Claude Code の hooks が受け取る stdin JSON の構造:共通項目�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "json", "jq"]
-published: true
+published: false
 ---
 
 hooks でスクリプトを実行する設定は書けたものの、そのスクリプトの中で「どのファイルが編集されたのか」「どのコマンドが実行されようとしているのか」をどう知るのかが分かりません。

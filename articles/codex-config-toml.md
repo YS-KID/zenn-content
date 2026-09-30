@@ -3,7 +3,7 @@ title: "Codex CLI の config.toml でモデル・推論の深さ・プロファ�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "configtoml"]
-published: true
+published: false
 ---
 
 Codex CLI の挙動は `~/.codex/config.toml` で決まります。モデル、推論の深さ、承認ポリシー、サンドボックス、MCP サーバーなど、ほぼすべての設定がここに集まっています。この記事では、日常的に触ることになる項目に絞って、書き方と使い分けを整理します。

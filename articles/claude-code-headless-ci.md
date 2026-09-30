@@ -3,7 +3,7 @@ title: "Claude Code を非対話モード(claude -p)で使う:CI やスクリプ
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "ci"]
-published: true
+published: false
 ---
 
 Claude Code は対話的に使うのが基本ですが、`-p`(print)オプションを付けると、1 つの指示を渡して結果を標準出力に返す**非対話モード**になります。シェルスクリプト、cron、CI パイプラインから呼び出せるため、「PR の差分を要約する」「テスト失敗の原因を分析する」「ドキュメントを更新する」といった処理を自動化できます。

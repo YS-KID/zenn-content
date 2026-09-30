@@ -3,7 +3,7 @@ title: "CLAUDE.local.md の使い方:自分だけのメモを Git に入れず�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudelocalmd", "claudemd"]
-published: true
+published: false
 ---
 
 チームで共有する `CLAUDE.md` に、自分のローカル環境の DB 名や、個人的に気になっている TODO を書くわけにはいきません。そうした「自分だけが Claude に伝えたいこと」の置き場所が `CLAUDE.local.md` です。

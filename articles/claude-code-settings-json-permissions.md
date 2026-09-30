@@ -3,7 +3,7 @@ title: "Claude Code の settings.json で permissions を設計する(allow / de
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "settingsjson", "permissions"]
-published: true
+published: false
 ---
 
 Claude Code は既定では、ファイルの編集やコマンドの実行のたびに確認を求めます。安全ではありますが、そのままでは作業のテンポが上がりません。かといって全許可にすると、`rm -rf` や `git push --force` のような取り返しのつかない操作まで自動で通ってしまいます。

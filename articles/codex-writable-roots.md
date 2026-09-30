@@ -3,7 +3,7 @@ title: "Codex の workspace-write で作業ディレクトリ外にも書き込�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "writableroots", "workspacewrite", "configtoml"]
-published: true
+published: false
 ---
 
 Codex を `workspace-write` で動かしていると、`~/.cache` や `~/.pyenv` のような作業ディレクトリ外への書き込みでビルドやパッケージのインストールが失敗することがあります。サンドボックスが書き込み先を制限しているためです。

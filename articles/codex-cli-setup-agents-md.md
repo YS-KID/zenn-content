@@ -3,7 +3,7 @@ title: "Codex CLI のセットアップと AGENTS.md の書き方【ChatGPT ア�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "agentsmd"]
-published: true
+published: false
 ---
 
 Codex CLI は OpenAI が提供するターミナル向けのコーディングエージェントです。ChatGPT のアカウントでログインでき、ローカルのリポジトリを読んでコードを書き、コマンドを実行します。

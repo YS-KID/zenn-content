@@ -3,7 +3,7 @@ title: "Claude Code VS Code 拡張のインストールと初期設定【最初�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "vscode"]
-published: true
+published: false
 ---
 
 Claude Code は Anthropic が提供するコーディングエージェントで、ターミナルからも VS Code のサイドパネルからも使えます。この記事では、VS Code 拡張機能を入れてから最初のタスクを実行するまでの手順と、導入直後に見直しておくと後で困らない設定をまとめます。

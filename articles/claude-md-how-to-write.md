@@ -3,7 +3,7 @@ title: "CLAUDE.md の書き方:ユーザー・プロジェクト・ディレク�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd"]
-published: true
+published: false
 ---
 
 Claude Code に同じ説明を毎回繰り返している、指示したはずのコーディング規約が守られない。こうした悩みの多くは `CLAUDE.md` を整えることで解決します。

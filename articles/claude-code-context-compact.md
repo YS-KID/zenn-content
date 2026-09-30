@@ -3,7 +3,7 @@ title: "Claude Code のコンテキスト管理:/compact・/clear の使い分�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "compact"]
-published: true
+published: false
 ---
 
 長いセッションを続けていると、Claude の応答が遅くなったり、最初に伝えたルールを忘れたように見えたりします。原因の多くは**コンテキストウィンドウの逼迫**です。会話履歴、読み込んだファイル、ツールの実行結果はすべてコンテキストに蓄積され、上限に近づくと精度が落ち、圧縮が走って情報が失われます。

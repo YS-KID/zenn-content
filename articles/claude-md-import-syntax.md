@@ -3,7 +3,7 @@ title: "CLAUDE.md の @ インポート記法:別ファイルを読み込ませ�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd"]
-published: true
+published: false
 ---
 
 CLAUDE.md が長くなってきたとき、すべてを 1 ファイルに書き続けると読みにくく、コンテキストも圧迫します。Claude Code には、`@` に続けてパスを書くとそのファイルの内容を取り込む**インポート記法**があります。

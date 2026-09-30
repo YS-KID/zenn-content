@@ -3,7 +3,7 @@ title: "Codex の出力に出るファイル参照を VS Code や Cursor で直�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "fileopener", "vscode", "cursor"]
-published: true
+published: false
 ---
 
 Codex が「`src/auth/session.ts:42` を修正しました」のように場所を示してくれても、そのたびにエディタでファイルを探すのは手間です。Codex CLI には、こうしたファイル参照を **エディタで直接開けるリンク** に変換する `file_opener` 設定があります。

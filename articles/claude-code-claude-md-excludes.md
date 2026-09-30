@@ -3,7 +3,7 @@ title: "Claude Code で他チームの CLAUDE.md を読み込ませない claude
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "claudemdexcludes", "settingsjson"]
-published: true
+published: false
 ---
 
 大きなモノレポで `claude` を起動すると、リポジトリのルートや他チームのディレクトリに置かれた `CLAUDE.md` まで読み込まれ、自分の作業に関係ない指示がコンテキストに混ざることがあります。Claude Code はカレントディレクトリから上位に向かって CLAUDE.md を探すため、これは仕様どおりの動作です。

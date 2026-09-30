@@ -3,7 +3,7 @@ title: "Codex VS Code 拡張の使い方:サイドパネルでの指示、ロー
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "vscode"]
-published: true
+published: false
 ---
 
 Codex は CLI だけでなく、VS Code のサイドパネルからも使えます。拡張機能を入れると、開いているワークスペースに対して指示を出し、変更差分をエディタ上で確認しながら進められます。ローカルでの作業に加えて、クラウド版の Codex にタスクを委任することもできます。

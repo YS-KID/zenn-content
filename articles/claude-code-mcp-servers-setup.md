@@ -3,7 +3,7 @@ title: "Claude Code に MCP サーバーを追加する方法(claude mcp add と
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "mcp"]
-published: true
+published: false
 ---
 
 MCP(Model Context Protocol)は、AI エージェントに外部ツールやデータソースを接続するための共通規格です。Claude Code に MCP サーバーを追加すると、GitHub の Issue 操作、ブラウザ操作、データベース参照などを、Claude が自分で判断して実行できるようになります。

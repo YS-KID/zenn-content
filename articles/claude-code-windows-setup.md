@@ -3,7 +3,7 @@ title: "Windows で Claude Code を使う:ネイティブ版と WSL の違い、
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "windows", "wsl", "powershell"]
-published: true
+published: false
 ---
 
 Claude Code は当初 macOS と Linux が主な対象で、Windows では WSL(Windows Subsystem for Linux)経由の利用が案内されていました。現在は **Windows ネイティブ版**が提供され、PowerShell からそのまま使えます。ただし、Git for Windows が必要であること、hooks やスクリプトの書き方が Unix 前提であることなど、知っておくべき違いがあります。

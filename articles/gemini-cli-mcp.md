@@ -3,7 +3,7 @@ title: "Gemini CLI に MCP サーバーを追加する:settings.json の mcpServ
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "mcp", "settingsjson"]
-published: true
+published: false
 ---
 
 Gemini CLI も MCP(Model Context Protocol)に対応しており、ブラウザ操作やドキュメント検索などの外部ツールを接続できます。設定は `settings.json` の `mcpServers` に書く JSON 形式で、Claude Code の `.mcp.json` とほぼ同じ構造です。

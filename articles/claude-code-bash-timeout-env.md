@@ -3,7 +3,7 @@ title: "Claude Code の Bash は既定 2 分で打ち切られる:BASH_DEFAULT_T
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "bash", "settingsjson"]
-published: true
+published: false
 ---
 
 テストスイートやビルドを Claude に実行させると、2 分で「タイムアウト」になって結果を見てもらえない。あるいは長いログの後半が切れて、Claude が肝心のエラーを見落とす。どちらも Claude Code の Bash ツールに既定の上限があるために起きます。

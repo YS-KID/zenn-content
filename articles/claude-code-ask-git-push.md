@@ -3,7 +3,7 @@ title: "Claude Code で git push だけ毎回確認させる ask 設定"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "ask", "gitpush", "permissions"]
-published: true
+published: false
 ---
 
 「コミットまでは自分で進めてほしいが、push はリモートに影響するので最後に自分で確認したい」。この要望は、`permissions.ask` に `git push` を書くだけで実現できます。

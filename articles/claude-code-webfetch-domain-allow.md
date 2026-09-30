@@ -3,7 +3,7 @@ title: "Claude Code の WebFetch を特定ドメインだけ許可する設定"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "webfetch", "permissions"]
-published: true
+published: false
 ---
 
 Claude に調べ物をさせたいが、任意のサイトへ自由にアクセスさせたくない。この要求は `permissions` の `WebFetch(domain:...)` ルールで表現できます。

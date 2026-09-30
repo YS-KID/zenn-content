@@ -3,7 +3,7 @@ title: "Codex の完了通知は notify = ['python3', '通知.py']:デスクト�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "notify", "tui"]
-published: true
+published: false
 ---
 
 Codex に長めのタスクを任せて別の作業をしていると、終わったことに気づかず放置してしまいます。Codex CLI には、ターン完了時に **外部プログラムを起動する** `notify` と、ターミナル自体の通知を制御する `tui.notifications` の 2 つの仕組みがあります。

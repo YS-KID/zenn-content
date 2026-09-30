@@ -3,7 +3,7 @@ title: "Claude Code の .claude/rules/ でファイル種別ごとにルール�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "rules", "paths"]
-published: true
+published: false
 ---
 
 CLAUDE.md にテストの規約、API の設計方針、フロントエンドのスタイル規則まで書いていくと、あっという間に 200 行を超えます。公式ドキュメントは「長いほど指示への追従が下がる」と明記しており、関係ない規約まで毎回読ませるのは損です。

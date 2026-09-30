@@ -3,7 +3,7 @@ title: "Claude Code の hooks の終了コード 0・2・その他の意味と�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "pretooluse", "posttooluse"]
-published: true
+published: false
 ---
 
 hooks スクリプトの終了コードは、Claude Code に「続けてよいか」「止めるか」「注意だけするか」を伝える信号です。ここを理解していないと、lint が失敗しても Claude が気付かない、あるいは逆に警告のつもりが処理を止めてしまう、といった食い違いが起きます。

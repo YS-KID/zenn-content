@@ -3,7 +3,7 @@ title: "Claude Code の settings.local.json とは:settings.json との違いと
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "settingslocaljson", "settingsjson", "gitignore", "permissions"]
-published: true
+published: false
 ---
 
 `.claude/` ディレクトリを見ると、`settings.json` のほかに `settings.local.json` というファイルができていることがあります。これは Claude Code が自動生成する**個人用の設定ファイル**で、チームで共有する `settings.json` とは役割が違います。

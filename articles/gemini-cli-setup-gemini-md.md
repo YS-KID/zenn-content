@@ -3,7 +3,7 @@ title: "Gemini CLI のインストールと GEMINI.md の書き方:Google アカ
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "geminimd"]
-published: true
+published: false
 ---
 
 Gemini CLI は Google が公開しているオープンソースのターミナル向けコーディングエージェントです。最大の特徴は、個人の Google アカウントでログインするだけで、上限付きながら無料で使い始められることです。

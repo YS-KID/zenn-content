@@ -3,7 +3,7 @@ title: "Codex の effort(推論の深さ)を変更する 3 つの方法:config.t
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "modelreasoningeffort", "reasoningeffort"]
-published: true
+published: false
 ---
 
 Codex の応答が遅い、あるいは逆に簡単な修正なのに考えすぎている。そう感じたときに調整するのが **reasoning effort(推論の深さ)** です。Claude Code の拡張思考に相当する設定で、Codex では `model_reasoning_effort` というキーで制御します。

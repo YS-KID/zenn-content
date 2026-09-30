@@ -3,7 +3,7 @@ title: "Claude Code の Stop フックで作業完了をデスクトップ通知
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "stop"]
-published: true
+published: false
 ---
 
 長い作業を投げたあと、ターミナルを見張っているのは時間の無駄です。終わった瞬間に通知が来れば、その間は別の作業ができます。

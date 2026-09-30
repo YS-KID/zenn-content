@@ -3,7 +3,7 @@ title: "Claude Code の auto memory を無効にする・保存先を変える�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "automemory", "automemoryenabled", "automemorydirectory", "settingsjson"]
-published: true
+published: false
 ---
 
 Claude Code には、あなたが書く CLAUDE.md とは別に、Claude 自身が「指摘されたこと」「好み」「プロジェクトの事情」を書き留めていく **auto memory** があります。便利な反面、共有マシンや検証用の環境では「勝手に何かを覚えてほしくない」「保存先を管理下に置きたい」という要望が出ます。

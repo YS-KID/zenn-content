@@ -3,7 +3,7 @@ title: "サブディレクトリの CLAUDE.md はいつ読み込まれるか:モ
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd"]
-published: true
+published: false
 ---
 
 モノレポで `packages/api/CLAUDE.md` を置いたのに効いていない気がする、逆に無関係なパッケージのルールまで適用されている。こうした混乱は、サブディレクトリの CLAUDE.md が **いつ**読み込まれるかを知ると解消します。

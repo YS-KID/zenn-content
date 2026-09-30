@@ -3,7 +3,7 @@ title: "Codex の Web 検索を制御する web_search 設定:disabled / cached 
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "websearch", "web"]
-published: true
+published: false
 ---
 
 依存ライブラリの最新のリリースノートを踏まえて作業してほしいときは Web 検索が要りますが、常に外部の Web を読ませるとプロンプトインジェクションの入り口になります。Codex CLI の Web 検索は `web_search` 設定で 4 段階に制御できます。

@@ -3,7 +3,7 @@ title: "CLAUDE.md の長さは 200 行未満が目安:超えると起動時に�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd"]
-published: true
+published: false
 ---
 
 `CLAUDE.md` を書き足していくうちに、どこまで詳しく書いてよいのか分からなくなります。長いほど丁寧に伝わる気がしますが、実際には逆で、長すぎる `CLAUDE.md` は指示が無視される原因になります。

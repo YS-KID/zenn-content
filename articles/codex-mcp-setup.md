@@ -3,7 +3,7 @@ title: "Codex CLI に MCP サーバーを設定する:config.toml の書き方�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "mcp", "configtoml"]
-published: true
+published: false
 ---
 
 MCP(Model Context Protocol)サーバーを Codex CLI に接続すると、ブラウザ操作、ドキュメント検索、Issue 管理などを Codex が自分で判断して実行できるようになります。Codex の MCP 設定は `config.toml` に集約されており、Claude Code や Gemini CLI とは書き方が異なります。

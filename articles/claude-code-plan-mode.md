@@ -3,7 +3,7 @@ title: "Claude Code の Plan Mode の使い方:実装前に計画を確認して
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "planmode"]
-published: true
+published: false
 ---
 
 「リファクタリングして」と頼んだら、想定と違う方向に大量のファイルが書き換えられていた。Claude Code を使っていると一度は経験する手戻りです。これを防ぐのが **Plan Mode** です。

@@ -3,7 +3,7 @@ title: "Claude Code でリモート MCP サーバーに OAuth ログインする
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "mcp", "oauth"]
-published: true
+published: false
 ---
 
 Sentry や Linear、Notion のようなホスト型の MCP サーバーは、URL を登録しただけでは使えません。ブラウザでのサインインが要ります。`claude mcp list` に `! Needs authentication` と出るのがその状態です。

@@ -3,7 +3,7 @@ title: "Codex と Claude Code の違い:OS サンドボックスかツール単�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "claudecode"]
-published: true
+published: false
 ---
 
 Codex(OpenAI)と Claude Code(Anthropic)は、どちらもターミナルと VS Code から使えるコーディングエージェントです。「どちらが賢いか」はモデルの更新で頻繁に入れ替わるため、この記事では**変わりにくい部分**、つまり料金体系、権限の考え方、設定ファイル、周辺機能の違いを比較します。

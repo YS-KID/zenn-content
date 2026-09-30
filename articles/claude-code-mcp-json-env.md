@@ -3,7 +3,7 @@ title: ".mcp.json で環境変数からトークンを渡す書き方(${VAR} 展
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "mcpjson", "mcp"]
-published: true
+published: false
 ---
 
 `.mcp.json` はチームで共有するために Git にコミットするファイルです。ここに GitHub のアクセストークンを直接書くと、リポジトリを見られる全員に漏れます。Claude Code は `.mcp.json` の中で `${環境変数名}` の形で環境変数を参照できるので、トークンの実体はシェル側に置きます。

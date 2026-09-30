@@ -3,7 +3,7 @@ title: "Claude Code の --add-dir で追加したディレクトリの CLAUDE.md
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "adddir", "additionaldirectories"]
-published: true
+published: false
 ---
 
 共通の設定やドキュメントを別リポジトリに置き、`claude --add-dir ../shared-config` で参照させている構成はよくあります。ところが、その `shared-config/CLAUDE.md` に書いた指示が効かない、という相談が多い機能です。

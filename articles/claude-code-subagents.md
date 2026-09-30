@@ -3,7 +3,7 @@ title: "Claude Code のサブエージェント(.claude/agents)の作り方と�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "agents"]
-published: true
+published: false
 ---
 
 コードベース全体を調べさせると、Claude が読んだファイルの内容がすべてコンテキストに残り、その後の作業精度が落ちます。レビューを頼むと、レビュー観点の長い指示が本来のタスクと混ざります。

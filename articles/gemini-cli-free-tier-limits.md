@@ -3,7 +3,7 @@ title: "Gemini CLI の無料枠と制限:リクエスト上限、モデル、デ
 emoji: "♊"
 type: "tech"
 topics: ["geminicli"]
-published: true
+published: false
 ---
 
 Gemini CLI の魅力は、個人の Google アカウントでログインするだけで無料で使えることです。ただし、無料枠には**リクエスト数の上限**と、**データが製品改善に使われる可能性**という 2 つの重要な条件があります。何も知らずに業務のコードを読ませると、後で問題になりかねません。

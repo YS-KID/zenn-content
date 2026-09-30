@@ -3,7 +3,7 @@ title: "Claude Code の # で CLAUDE.md に追記できるか:公式ドキュメ
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "memory"]
-published: true
+published: false
 ---
 
 Claude Code の解説記事や動画で「入力欄の先頭に `#` を打つと、その内容が `CLAUDE.md` に追記される」という操作を見かけて、実際に試したら何も起きなかった。そんな経験から検索してこの記事にたどり着いた方に向けて書いています。

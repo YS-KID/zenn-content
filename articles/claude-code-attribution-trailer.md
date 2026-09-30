@@ -3,7 +3,7 @@ title: "Claude Code のコミットから Co-Authored-By を消す:attribution.c
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "git", "coauthoredby", "attribution", "settingsjson"]
-published: true
+published: false
 ---
 
 Claude Code にコミットを作らせると、メッセージの末尾に `Co-Authored-By: Claude <noreply@anthropic.com>` のようなトレーラーが付き、PR の説明文には「Generated with Claude Code」の一文が入ります。会社のポリシーで署名を統一したい、あるいは付けたくない、という場面は珍しくありません。

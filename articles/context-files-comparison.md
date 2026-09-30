@@ -3,7 +3,7 @@ title: "CLAUDE.md・AGENTS.md・GEMINI.md の違いと共通化テクニック:3
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudemd", "agentsmd", "geminimd"]
-published: true
+published: false
 ---
 
 Claude Code、Codex、Gemini CLI を併用すると、それぞれが読むコンテキストファイル(`CLAUDE.md`、`AGENTS.md`、`GEMINI.md`)を用意することになります。同じ内容を 3 か所に書くと、更新のたびにずれていきます。

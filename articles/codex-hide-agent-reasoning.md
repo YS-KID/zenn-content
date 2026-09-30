@@ -3,7 +3,7 @@ title: "Codex の推論(reasoning)の表示を消す・詳しくする設定:hid
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "hideagentreasoning", "reasoning"]
-published: true
+published: false
 ---
 
 Codex は応答の途中で「何を考えているか」の要約を表示します。作業の追跡には便利ですが、ログを流し読みしたいときや、`codex exec` の出力をスクリプトで扱いたいときには邪魔になります。逆に、なぜその判断をしたのかをもっと詳しく見たい場面もあります。

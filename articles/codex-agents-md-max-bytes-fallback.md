@@ -3,7 +3,7 @@ title: "Codex の AGENTS.md は既定で 32 KiB までしか読まれない:proj
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "agentsmd", "projectdocmaxbytes", "configtoml"]
-published: true
+published: false
 ---
 
 AGENTS.md に細かく書いたのに、後半の指示が効いていない。あるいは、チームが `CLAUDE.md` や `TEAM_GUIDE.md` で運用していて Codex 用に別ファイルを増やしたくない。どちらも Codex の AGENTS.md の読み込みルールを知ると解決します。

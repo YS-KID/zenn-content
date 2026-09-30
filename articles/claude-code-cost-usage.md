@@ -3,7 +3,7 @@ title: "Claude Code の料金と使用量の確認方法:/cost・/usage・レー
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode"]
-published: true
+published: false
 ---
 
 Claude Code の費用は「定額プラン」と「API 従量課金」のどちらで使うかで考え方が変わります。定額プランは金額が固定ですが使用上限があり、API は上限がない代わりに使った分だけ請求されます。どちらでも、使用量を把握して無駄を減らす方法は共通しています。

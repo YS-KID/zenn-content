@@ -3,7 +3,7 @@ title: "Claude Code の settings.json の env キーで環境変数を固定す�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "settingsjson", "env"]
-published: true
+published: false
 ---
 
 `ANTHROPIC_MODEL` や `BASH_DEFAULT_TIMEOUT_MS` のような Claude Code の環境変数を、`.bashrc` や `.zshrc` に書くと、IDE 拡張やデスクトップアプリから起動したときに効かないことがあります。起動経路によってシェルの初期化が走らないためです。

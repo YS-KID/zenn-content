@@ -3,7 +3,7 @@ title: "Codex で MCP サーバーの一部のツールだけ許可する enable
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "mcp", "configtoml", "enabledtools", "tooltimeoutsec"]
-published: true
+published: false
 ---
 
 MCP サーバーを追加すると、そのサーバーが公開するツールが全部 Codex から使えるようになります。ブラウザ操作のサーバーで「スクリーンショットは撮ってほしいがフォーム送信はさせたくない」のように、一部だけを許可したい場面はよくあります。

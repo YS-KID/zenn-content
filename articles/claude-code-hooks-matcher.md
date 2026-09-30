@@ -3,7 +3,7 @@ title: "Claude Code の hooks の matcher に書ける値一覧:イベント別�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "matcher", "settingsjson"]
-published: true
+published: false
 ---
 
 `settings.json` に hooks を書くとき、`matcher` に何を書けばよいのか迷います。`Bash` のようなツール名が書けることは分かっても、正規表現が使えるのか、`SessionStart` では何と照合されるのかは、書いてみないと分かりません。

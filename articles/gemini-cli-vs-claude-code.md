@@ -3,7 +3,7 @@ title: "Gemini CLI と Claude Code の比較:無料枠、コンテキスト長�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "claudecode"]
-published: true
+published: false
 ---
 
 Gemini CLI と Claude Code は、どちらもターミナルで動くコーディングエージェントですが、料金の考え方、コンテキストの扱い、カスタマイズの仕組みに違いがあります。「どちらのモデルが賢いか」はリリースのたびに入れ替わるため、この記事では**変わりにくい部分**を中心に比較します。

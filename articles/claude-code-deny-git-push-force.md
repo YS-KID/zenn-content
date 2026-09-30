@@ -3,7 +3,7 @@ title: "Claude Code で git push --force を禁止する deny 設定"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "deny", "gitpushforce", "permissions"]
-published: true
+published: false
 ---
 
 Claude Code に Git 操作を任せていると、コンフリクトの解消中に `git push --force` を実行されて、他の人のコミットが消える事故が起こり得ます。これを防ぐには、`settings.json` の `permissions.deny` に force push のパターンを書いておきます。

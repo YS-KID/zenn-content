@@ -3,7 +3,7 @@ title: "Claude Code の編集後に lint と format を走らせる:PostToolUse 
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "lint", "prettier"]
-published: true
+published: false
 ---
 
 「フォーマットを揃えてからコミットして」と CLAUDE.md に書いても、Claude が実行を忘れることがあります。指示は確率的に守られるものだからです。この問題を確実に解決するのが **hooks** です。hooks は Claude の判断を介さず、Claude Code 本体が決められたタイミングでシェルコマンドを実行する仕組みです。

@@ -3,7 +3,7 @@ title: "Claude Code に入力したコードは学習に使われるのか:プ�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode"]
-published: true
+published: false
 ---
 
 「Claude Code に読ませたコードが、Anthropic のモデルの学習に使われるのではないか」。業務で使う前に必ず出る疑問です。答えは **契約の種類と設定によって異なります**。個人向けプランと商用プランでは既定の扱いが違い、個人向けプランでは自分で設定を確認する必要があります。

@@ -3,7 +3,7 @@ title: "Codex は既定で API キーもコマンドに渡す:shell_environment_
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "configtoml", "shellenvironmentpolicy"]
-published: true
+published: false
 ---
 
 Codex がテストやビルドのコマンドを実行するとき、あなたのシェルにある環境変数はどこまでコマンド側に引き継がれるのでしょうか。`AWS_SECRET_ACCESS_KEY` や `OPENAI_API_KEY` がそのまま渡っていれば、Codex が生成したコマンドがそれらを読める状態です。

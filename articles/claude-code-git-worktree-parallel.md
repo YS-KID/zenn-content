@@ -3,7 +3,7 @@ title: "Claude Code と git worktree で複数タスクを並列に進める手�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "gitworktree"]
-published: true
+published: false
 ---
 
 Claude Code は 1 セッションで 1 つのタスクを進めるのが基本です。「機能 A の実装」と「バグ B の修正」を同時に頼むと、同じ作業ディレクトリ上で変更が混ざり、差分の切り分けが難しくなります。
