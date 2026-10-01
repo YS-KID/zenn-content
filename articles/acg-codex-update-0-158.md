@@ -3,7 +3,7 @@ title: "Codex CLI v0.158 の変更点:MCP の OAuth シークレット対応と�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "mcp"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.158.0 は、MCP とサンドボックス、そして承認まわりに実務で効く変更が入ったリリースです。
