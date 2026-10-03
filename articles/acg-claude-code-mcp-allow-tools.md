@@ -3,7 +3,7 @@ title: "MCP のツールを permissions で自動許可する書き方:mcp__ 記
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "mcp", "permissions", "settingsjson"]
-published: false
+published: true
 ---
 
 MCP サーバーを追加すると、そのツールを呼ぶたびに確認を求められます。読み取り専用のツールまで毎回止まるのは手間です。
