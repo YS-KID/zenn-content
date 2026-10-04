@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年10�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週の最大の変更は、**Claude Sonnet 5.5(`claude-sonnet-5-5`)が Anthropic API の既定の Sonnet モデルになった**ことです(v2.1.284)。公式料金表の価格は Sonnet 5 と同額なので、値上げを気にせず切り替わります。

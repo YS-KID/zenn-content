@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年9�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週の最大の変更は、**Claude Opus 5.5(`claude-opus-5-5`)が Claude Code の既定の Opus モデルになった**ことです(v2.1.280)。公式の料金表では入力 $4/MTok・出力 $20/MTok で、Claude Opus 5 の $5/$25 より安くなっています。
