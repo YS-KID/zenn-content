@@ -3,7 +3,7 @@ title: "claude mcp add の --scope local / project / user の違いと使い分�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "mcp", "scope", "mcpjson"]
-published: false
+published: true
 ---
 
 `claude mcp add` で MCP サーバーを追加するとき、`--scope` に何を指定すべきか迷います。名前から「local はローカル、user はユーザー」と推測はできますが、`local` と `user` はどちらも同じファイルに保存されるため、違いが分かりにくい部分です。

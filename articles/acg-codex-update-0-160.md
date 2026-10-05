@@ -3,7 +3,7 @@ title: "Codex CLI v0.160 の変更点と自動レビュー(Guardian)の設定"
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "guardian"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.160.0 は、バグ修正が多くを占めるなかで **自動レビュー(Guardian)がオプトインで拡張された** リリースです。
