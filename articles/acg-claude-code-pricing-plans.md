@@ -3,7 +3,7 @@ title: "Claude Code を Pro・Max・Team・API のどれで使うべきか(2026 
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "max", "api"]
-published: false
+published: true
 ---
 
 Claude Code を使い始めるとき、最初に決めるのが支払い方法です。選択肢はサブスクリプション(Pro / Max / Team / Enterprise)と API 従量課金の 2 系統あり、料金の考え方も上限の扱いも違います。
