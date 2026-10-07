@@ -3,7 +3,7 @@ title: "Claude Code とは何か、できること・できないことと Curso
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode"]
-published: true
+published: false
 ---
 
 Claude Code は、コードベースを読み、ファイルを編集し、コマンドを実行する **エージェント型のコーディングツール** です。公式ドキュメントの説明はこうなっています。

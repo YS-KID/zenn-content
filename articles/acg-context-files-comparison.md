@@ -1,5 +1,5 @@
 ---
-title: "CLAUDE.md・AGENTS.md・GEMINI.md の違いと共通化テクニック:3 ツール併用でも二重管理しない"
+title: "CLAUDE.md・AGENTS.md・GEMINI.md の違いは読み込み方だけ、原本 1 つで共通化する"
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudemd", "agentsmd", "geminimd"]
@@ -26,6 +26,6 @@ Claude Code、Codex、Gemini CLI を併用すると、それぞれが読むコ�
 
 ---
 
-設定例・手順の全文はこちらで公開しています: [CLAUDE.md・AGENTS.md・GEMINI.md の違いと共通化テクニック:3 ツール併用でも二重管理しない](https://aicoding-guide.com/posts/context-files-comparison/)
+設定例・手順の全文はこちらで公開しています: [CLAUDE.md・AGENTS.md・GEMINI.md の違いは読み込み方だけ、原本 1 つで共通化する](https://aicoding-guide.com/posts/context-files-comparison/)
 
 ※ この記事は要約版です。仕様変更に合わせた更新は上記ページで行います。

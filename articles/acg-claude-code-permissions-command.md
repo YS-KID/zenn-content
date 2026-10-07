@@ -1,5 +1,5 @@
 ---
-title: "Claude Code の /permissions コマンドでできること(ルール確認と追加)"
+title: "Claude Code の /permissions はルールの出どころまで表示する(作業中も編集可)"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "permissions"]
@@ -27,6 +27,6 @@ published: false
 
 ---
 
-設定例・手順の全文はこちらで公開しています: [Claude Code の /permissions コマンドでできること(ルール確認と追加)](https://aicoding-guide.com/posts/claude-code-permissions-command/)
+設定例・手順の全文はこちらで公開しています: [Claude Code の /permissions はルールの出どころまで表示する(作業中も編集可)](https://aicoding-guide.com/posts/claude-code-permissions-command/)
 
 ※ この記事は要約版です。仕様変更に合わせた更新は上記ページで行います。

@@ -1,5 +1,5 @@
 ---
-title: "Claude Code の権限モード 6 種類の違いと選び方(defaultMode の設定)"
+title: "Claude Code の開始モードは auto が既定、権限モード 6 種類と defaultMode の設定"
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "defaultmode", "acceptedits", "permissions"]
@@ -21,12 +21,12 @@ Claude Code の `permissions.defaultMode` は、「allow にも deny にも一�
 
 - モードは 6 種類。`default`(Manual)・`acceptEdits`・`plan`・`auto`・`dontAsk`・`bypassPermissions`
 - deny はすべてのモードで効き、allow は `bypassPermissions` では効果がない
-- Pro・Max・Team プランの開始モードは auto。フラグ → `defaultMode` → 組み込みの既定値の順で決まる
+- v2.1.283 以降、ターミナルと VS Code の開始モードはプランを問わず auto。フラグ → `defaultMode` → 組み込みの既定値の順で決まる
 - `auto` と `bypassPermissions` は `.claude/settings.json` と `.claude/settings.local.json` では効かない
 - `Shift+Tab` と `--permission-mode` は一時的な切り替えで、設定ファイルは変わらない
 
 ---
 
-設定例・手順の全文はこちらで公開しています: [Claude Code の権限モード 6 種類の違いと選び方(defaultMode の設定)](https://aicoding-guide.com/posts/claude-code-default-mode/)
+設定例・手順の全文はこちらで公開しています: [Claude Code の開始モードは auto が既定、権限モード 6 種類と defaultMode の設定](https://aicoding-guide.com/posts/claude-code-default-mode/)
 
 ※ この記事は要約版です。仕様変更に合わせた更新は上記ページで行います。
