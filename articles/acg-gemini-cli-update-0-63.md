@@ -3,7 +3,7 @@ title: "Gemini CLI v0.63 で diff の cannot spawn エラーが修正、変更�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "diff", "settingsjson", "mcp"]
-published: false
+published: true
 ---
 
 Gemini CLI の v0.63.0 は、**15 件すべてが修正**のリリースです。新しい設定キー、新コマンド、破壊的変更はリリースノートに載っていません。
