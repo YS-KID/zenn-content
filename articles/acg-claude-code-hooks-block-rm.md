@@ -3,7 +3,7 @@ title: "Claude Code の PreToolUse フックで rm -rf を止める設定と、�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "pretooluse", "rmrf"]
-published: false
+published: true
 ---
 
 `rm -rf` のような取り返しのつかないコマンドだけは、確認を挟まずに実行されると困ります。`PreToolUse` フックを使うと、ツール呼び出しの直前にスクリプトで判定して拒否できます。

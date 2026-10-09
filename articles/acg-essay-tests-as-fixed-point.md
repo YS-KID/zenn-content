@@ -3,7 +3,7 @@ title: "実装が使い捨てになる AI 開発時代にテストが仕様の�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "hooks", "ci"]
-published: false
+published: true
 ---
 
 実装が使い捨てになるほど、仕様の正本はテストに移ります。これがこの記事の主張です。
