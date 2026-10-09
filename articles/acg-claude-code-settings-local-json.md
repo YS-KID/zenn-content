@@ -21,7 +21,7 @@ published: false
 
 - `settings.json` はチーム共有(Git 管理)、`settings.local.json` は個人用(Git 管理外)
 - 「今後も許可」は `settings.local.json` の allow に追記される。`/permissions` で定期的に見直す
-- 優先順位はローカル > プロジェクト > ユーザー。deny だけはどこに書いても最優先
+- 優先順位は管理者設定 > コマンドライン(`--settings`)> ローカル > プロジェクト > ユーザー。permissions は deny → ask → allow の順に評価されるため、プロジェクトの deny をローカルの allow で解除できない
 - チームの設定は慎重側に、個人の高速化はローカルで上書きする
 
 ---
