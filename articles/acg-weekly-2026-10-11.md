@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年10�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: true
+published: false
 ---
 
 今週いちばん影響が大きいのは **Claude Haiku 5.5** の追加です。Anthropic API の既定 Haiku モデルになり、コンテキストは 100 万トークン、短いプロンプトの料金は Haiku 4.5 の 10 分の 1 になりました。Codex 側では **既定モデルが GPT-6.1 Sol** に変わっています。
