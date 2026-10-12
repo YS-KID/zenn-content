@@ -3,7 +3,7 @@ title: "Codex CLI v0.161 と v0.162 の変更点と既定モデル GPT-6.1 Sol �
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "gpt61sol", "configtoml"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.161.0 と v0.162.0 は、**既定モデルの入れ替え**と**Daybreak の有効化方法の変更**という、設定を触る側に影響する変更を含むリリースです。
