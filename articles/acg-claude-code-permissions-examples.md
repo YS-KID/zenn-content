@@ -3,7 +3,7 @@ title: "Claude Code の permissions 設定例、npm scripts は自動・git push
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "permissions", "allow", "ask", "deny"]
-published: false
+published: true
 ---
 
 Claude Code に開発を任せるとき、多くの人が欲しいのは次の 3 つの線引きです。`npm run lint` や `npm run test` のような自分で書いた scripts は確認なしで走らせたい。`git push` はリモートに影響するので、直前に一度だけ自分で確認したい。`git push --force` は何があっても実行させたくない。

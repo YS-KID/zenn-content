@@ -3,7 +3,7 @@ title: "CLAUDE.md はどこに置くと読まれるのか、ルート・サブ�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "claudelocalmd", "adddir"]
-published: false
+published: true
 ---
 
 `CLAUDE.md` を書いたのに効いていない気がする。その原因の大半は内容ではなく「置いた場所が、いま読み込まれる場所ではない」ことです。Claude Code が CLAUDE.md を読む場所は 1 つではなく、読まれるタイミングも場所ごとに違います。
