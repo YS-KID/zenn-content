@@ -3,7 +3,7 @@ title: "Claude Code の使い方入門、インストールから最初の 1 時
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "windows"]
-published: false
+published: true
 ---
 
 Claude Code を初めて入れるとき、迷いやすいのは「どのインストール方法を選ぶか」と「最初に何を確認すればよいか」の 2 点です。
