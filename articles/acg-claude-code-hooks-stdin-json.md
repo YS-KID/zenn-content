@@ -3,7 +3,7 @@ title: "Claude Code の hooks の入出力仕様、stdin の JSON の構造と�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "hooks", "json", "jq", "pretooluse"]
-published: false
+published: true
 ---
 
 hooks でスクリプトを実行する設定は書けたものの、そのスクリプトの中で「どのファイルが編集されたのか」をどう知るのか、そして lint が失敗したことをどう Claude に伝えるのかが分かりません。この 2 つは hooks の「入力」と「出力」の仕様で、どちらも押さえないと、lint が失敗しても Claude が気付かない、あるいは警告のつもりが処理を止めてしまう、という食い違いが起きます。
