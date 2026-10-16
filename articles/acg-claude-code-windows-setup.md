@@ -6,7 +6,7 @@ topics: ["claudecode", "windows", "wsl", "powershell"]
 published: false
 ---
 
-Claude Code は当初 macOS と Linux が主な対象で、Windows では WSL(Windows Subsystem for Linux)経由の利用が案内されていました。現在は **Windows ネイティブ版**が提供され、PowerShell からそのまま使えます。ただし、Git for Windows が必要であること、hooks やスクリプトの書き方が Unix 前提であることなど、知っておくべき違いがあります。
+Claude Code は当初 macOS と Linux が主な対象で、Windows では WSL(Windows Subsystem for Linux)経由の利用が案内されていました。現在は **Windows ネイティブ版**が提供され、PowerShell からそのまま使えます。ネイティブと WSL のどちらを選ぶかは、**サンドボックスを使うかどうか**で決まります。
 
 この記事では、ネイティブ版と WSL 版の比較、それぞれの手順、実際につまずきやすい点をまとめます。
 
@@ -19,8 +19,8 @@ Claude Code は当初 macOS と Linux が主な対象で、Windows では WSL(Wi
 
 ## まとめ
 
-- Windows ネイティブ版は Git for Windows が前提。PowerShell から `irm https://claude.ai/install.ps1 | iex` で入る
-- Linux 向けツールチェーンを使うなら WSL 版。プロジェクトは WSL 内に置く
+- ネイティブ版は PowerShell から `irm https://claude.ai/install.ps1 | iex` で入る。Git for Windows は任意で、入れなければ PowerShell ツールが使われる
+- **サンドボックスを使うなら WSL 2**。ネイティブ Windows と WSL 1 は非対応。プロジェクトは WSL 内に置く
 - hooks やスクリプトは Git Bash 上で動く前提で書き、改行コードは LF にする
 - 日本語入力や文字化けは Windows Terminal と UTF-8 設定、または VS Code 拡張で回避する
 
