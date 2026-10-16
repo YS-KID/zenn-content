@@ -3,7 +3,7 @@ title: "書く速度と読む速度の差が生む AI 時代のレビュー負�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "hooks"]
-published: true
+published: false
 ---
 
 レビュー負債は、読む量を増やしても返せません。返せるのは、出す単位を小さくするか、機械に落とさせるか、そもそも起きないように権限で縛るかの 3 つだけです。
