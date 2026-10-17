@@ -23,7 +23,7 @@ Codex CLI の v0.161.0 と v0.162.0 は、**既定モデルの入れ替え**と*
 
 - v0.161.0 で既定モデルが GPT-6.1 Sol に。明記されているのは同梱と Amazon Bedrock のカタログで、アカウント側で使えるかは別に確認する
 - モデルを固定するなら `config.toml` のトップレベルに `model = "gpt-6.1-sol"`
-- Daybreak は `--enable cli_daybreak` か `features.cli_daybreak = true` が必要。`daybreak = true` だけでは効かない
+- Daybreak は v0.161.0 と v0.162.0 では `--enable cli_daybreak` か `features.cli_daybreak = true` が必要。v0.163.0 で既定に戻った
 - ripgrep の設定が deny-glob のマスクを弱める問題が修正された。サンドボックスで機密ファイルを除外しているなら上げる価値がある
 - `features.cli_daybreak`、worktrees の機能フラグ、`tui.mouse_scroll_speed` は、いずれも公式の設定リファレンスの一覧では確認できなかった
 
