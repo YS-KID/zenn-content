@@ -24,6 +24,7 @@ Codex の応答が遅い、あるいは逆に簡単な修正なのに考えす�
 - 用途別に固定するなら `<名前>.config.toml` のプロファイルを作って `--profile` で選ぶ
 - プランモードには `plan_mode_reasoning_effort`、サブエージェントには `agents.default_subagent_reasoning_effort`
 - 深くするほど遅く高くなる。日常は中程度、難しい作業だけ上げる
+- 深さではなく表示を変えたいなら `model_reasoning_summary` と `show_raw_agent_reasoning`
 
 ---
 
