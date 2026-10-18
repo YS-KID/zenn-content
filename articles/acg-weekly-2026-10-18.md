@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年10�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週いちばん影響が大きいのは、Claude Code の **アイドル時の自動コンパクト**です。長い会話を放置すると、こちらが何もしなくても要約が走るようになりました。
