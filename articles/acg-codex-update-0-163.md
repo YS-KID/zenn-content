@@ -3,7 +3,7 @@ title: "Codex CLI v0.163 で Daybreak が既定に戻り /config が検索でき
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "daybreak"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.163.0 は、5 日前の v0.161.0 で変わったばかりの **Daybreak の有効化方法を元に戻す**リリースです。あわせて設定画面と対話中の操作、ネットワークプロキシのセキュリティ修正が入りました。
