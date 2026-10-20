@@ -3,7 +3,7 @@ title: "CLAUDE.md に追記する方法、# ショートカットの現状と /m
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "claudemd", "memory"]
-published: false
+published: true
 ---
 
 Claude Code の解説記事や動画で「入力欄の先頭に `#` を打つと、その内容が `CLAUDE.md` に追記される」という操作を見かけて、実際に試したら何も起きなかった。そんな経験から検索してこの記事にたどり着いた方に向けて、いま公式に案内されている追記方法と、長くなった CLAUDE.md を別ファイルに分ける `@` インポート記法をまとめます。
