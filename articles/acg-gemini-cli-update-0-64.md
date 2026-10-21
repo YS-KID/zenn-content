@@ -3,7 +3,7 @@ title: "Gemini CLI v0.64 で @ を含むコードを渡すと固まる不具合�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "headless"]
-published: false
+published: true
 ---
 
 Gemini CLI の v0.64.0 には新機能がありません。リリースノートの「What's Changed」は 17 件すべてが修正・リファクタリング・リリース作業です。
