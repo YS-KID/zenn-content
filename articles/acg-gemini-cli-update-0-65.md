@@ -3,7 +3,7 @@ title: "Gemini CLI v0.65 で未信頼フォルダの設定が読み取り専用�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "opentelemetry"]
-published: false
+published: true
 ---
 
 Gemini CLI の v0.65.0 は 27 件の変更を含みますが、**新機能は 1 件だけ**です。テレメトリの OTLP エクスポーターにカスタムヘッダーを指定できるようになりました。残りは修正 25 件と性能改善 1 件です。
