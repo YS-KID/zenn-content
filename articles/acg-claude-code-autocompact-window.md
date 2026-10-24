@@ -3,7 +3,7 @@ title: "/autocompact と CLAUDE_CODE_AUTOCOMPACT_PCT_OVERRIDE で自動コンパ
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "autocompact"]
-published: false
+published: true
 ---
 
 長いセッションで「気づいたら会話が要約されていて、直前の指示が薄れた」という経験は多いはずです。逆に、コンテキストが埋まりきる前に早めに要約させて、性能の低下を避けたい場面もあります。
