@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年10�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週は **セキュリティ修正の週**でした。Claude Code 2.1.309 に、サンドボックスと権限チェックをすり抜けられる経路の修正が 10 件以上まとまって入っています。Codex 0.164.0 もサンドボックスの判定を固め、資格情報のマスクを追加しました。
