@@ -1,11 +1,12 @@
 {
-  "last_release": "2026-10-25T15:43:21+00:00",
+  "last_release": "2026-10-26T22:24:00+00:00",
   "published": {
     "acg-claude-code-attribution-trailer": "2026-10-21T21:22:51+00:00",
     "acg-claude-code-auto-memory-disable": "2026-10-23T03:49:03+00:00",
     "acg-claude-code-autocompact-window": "2026-10-24T10:29:24+00:00",
     "acg-claude-code-bash-timeout-env": "2026-10-24T10:29:24+00:00",
     "acg-claude-code-claude-md-excludes": "2026-10-25T15:43:21+00:00",
+    "acg-claude-code-cleanup-period-days": "2026-10-26T22:24:00+00:00",
     "acg-claude-code-getting-started": "2026-10-14T16:45:16+00:00",
     "acg-claude-code-hooks-block-rm": "2026-10-09T12:46:10+00:00",
     "acg-claude-code-hooks-matcher": "2026-10-17T03:26:32+00:00",
@@ -25,6 +26,7 @@
     "acg-codex-update-0-160": "2026-10-05T13:54:21+00:00",
     "acg-codex-update-0-161": "2026-10-12T04:53:02+00:00",
     "acg-codex-update-0-163": "2026-10-19T12:27:38+00:00",
+    "acg-codex-update-0-164": "2026-10-26T22:24:00+00:00",
     "acg-essay-review-debt": "2026-10-17T03:26:32+00:00",
     "acg-essay-tests-as-fixed-point": "2026-10-09T12:46:10+00:00",
     "acg-gemini-cli-update-0-62": "2026-10-01T22:26:36+00:00",

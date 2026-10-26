@@ -3,7 +3,7 @@ title: "Codex CLI v0.164 で追加された /presets と /permissions の引数�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.164.0 は、ここ数バージョンでは珍しく新機能が複数入ったリリースです。中心は **`/presets`** と、**`/permissions` の引数指定**です。
