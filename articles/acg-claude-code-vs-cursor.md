@@ -3,7 +3,7 @@ title: "Claude Code と Cursor の違いを料金・権限設定・ルールフ�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "cursor"]
-published: false
+published: true
 ---
 
 Claude Code(Anthropic)と Cursor は、どちらもコーディングエージェントです。Cursor はエディタとして知られていますが、現在は CLI も提供していて、ターミナルでの使い方は Claude Code に近づいています。
