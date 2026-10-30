@@ -3,7 +3,7 @@ title: "Codex CLI v0.165 で Vertex AI が組み込みプロバイダになり�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "vertexai"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.165.0 は、新機能 6 件と修正 6 件のリリースです。設定に関わるのは **Vertex AI プロバイダの追加** と **メモリの既定有効化** の 2 つです。
