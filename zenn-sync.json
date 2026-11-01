@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-10-30T22:00:42+00:00",
+  "last_release": "2026-11-01T04:55:04+00:00",
   "published": {
     "acg-claude-code-attribution-trailer": "2026-10-21T21:22:51+00:00",
     "acg-claude-code-auto-memory-disable": "2026-10-23T03:49:03+00:00",
@@ -26,6 +26,7 @@
     "acg-claude-md-init-command": "2026-10-30T22:00:42+00:00",
     "acg-claude-md-length-guideline": "2026-10-18T10:33:58+00:00",
     "acg-claude-md-location": "2026-10-13T13:46:05+00:00",
+    "acg-codex-agents-md-max-bytes-fallback": "2026-11-01T04:55:04+00:00",
     "acg-codex-reasoning-effort": "2026-10-19T12:27:38+00:00",
     "acg-codex-update-0-158": "2026-10-01T22:26:36+00:00",
     "acg-codex-update-0-160": "2026-10-05T13:54:21+00:00",
@@ -46,6 +47,7 @@
     "acg-weekly-2026-10-11": "2026-10-12T04:53:02+00:00",
     "acg-weekly-2026-10-18": "2026-10-18T10:33:58+00:00",
     "acg-weekly-2026-10-25": "2026-10-25T15:43:21+00:00",
+    "acg-weekly-2026-11-01": "2026-11-01T04:55:04+00:00",
     "ai-coding-security-secrets": "seed",
     "ai-coding-test-first-workflow": "seed"
   }

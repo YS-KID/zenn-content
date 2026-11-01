@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年11�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週は **期限のある変更**があります。Opus 4.8 の fast モードが 2026 年 10 月 30 日付で非推奨になり、**2026 年 11 月 30 日に削除**されます。CHANGELOG は、削除後は fast モードのリクエストがエラーになり、通常の Opus 4.8 にフォールバックもしないと書いています。
