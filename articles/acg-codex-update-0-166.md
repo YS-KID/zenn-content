@@ -3,7 +3,7 @@ title: "Codex CLI v0.166 で追加された codex queue --resume と codex docto
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "codexdoctor"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.166.0 は新機能 6 件、修正 7 件のリリースです。日常の運用に効くのは **`codex queue --resume`** と **`codex doctor --network-only`** の 2 つです。
