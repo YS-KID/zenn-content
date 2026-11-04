@@ -3,7 +3,7 @@ title: "Gemini CLI v0.66 は修正のみで keybindings.json の keys 配列と�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "keybindingsjson"]
-published: true
+published: false
 ---
 
 Gemini CLI の v0.66.0 に新機能はありません。リリースノートの「What's Changed」は 26 件すべてが修正・リファクタリング・リリース作業です。
