@@ -3,7 +3,7 @@ title: "Gemini CLI v0.67 で models コマンドが追加され Claude のフッ
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "hooks"]
-published: false
+published: true
 ---
 
 Gemini CLI の v0.67.0 は 27 件の変更のうち、新機能が 2 件、修正が 22 件です。

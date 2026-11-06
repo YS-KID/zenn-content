@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-05T05:39:02+00:00",
+  "last_release": "2026-11-06T13:53:50+00:00",
   "published": {
     "acg-claude-code-attribution-trailer": "2026-10-21T21:22:51+00:00",
     "acg-claude-code-auto-memory-disable": "2026-10-23T03:49:03+00:00",
@@ -30,6 +30,7 @@
     "acg-codex-file-opener": "2026-11-02T15:00:03+00:00",
     "acg-codex-hide-agent-reasoning": "2026-11-03T22:59:28+00:00",
     "acg-codex-history-persistence-none": "2026-11-05T05:39:02+00:00",
+    "acg-codex-mcp-enabled-tools-timeout": "2026-11-06T13:53:50+00:00",
     "acg-codex-reasoning-effort": "2026-10-19T12:27:38+00:00",
     "acg-codex-update-0-158": "2026-10-01T22:26:36+00:00",
     "acg-codex-update-0-160": "2026-10-05T13:54:21+00:00",
@@ -45,6 +46,7 @@
     "acg-gemini-cli-update-0-64": "2026-10-21T21:22:51+00:00",
     "acg-gemini-cli-update-0-65": "2026-10-23T03:49:03+00:00",
     "acg-gemini-cli-update-0-66": "2026-11-05T05:39:02+00:00",
+    "acg-gemini-cli-update-0-67": "2026-11-06T13:53:50+00:00",
     "acg-weekly-2026-09-13": "2026-10-20T16:30:30+00:00",
     "acg-weekly-2026-09-20": "2026-10-14T16:45:16+00:00",
     "acg-weekly-2026-09-27": "2026-10-04T11:55:31+00:00",
