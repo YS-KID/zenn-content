@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年11�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: true
+published: false
 ---
 
 今週いちばん影響が大きいのは、**auto モードが組み込みの分類器にフォールバックしなくなった**ことです。テレメトリや機能フラグを切っている環境、LLM ゲートウェイ越しの環境では、サーバー側で確認できない呼び出しが**確認か拒否**になります。
