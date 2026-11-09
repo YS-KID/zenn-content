@@ -3,7 +3,7 @@ title: "Codex CLI v0.167 で追加された codex agents と自動圧縮の修�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "codexagents"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.167.0 は、新機能 6 件・修正 6 件・ドキュメント 2 件・雑務 2 件のリリースです。日常の作業に効くのは **agent command center まわりの強化**と、**自動コンテキスト圧縮のトークン計算の修正**の 2 つです。
