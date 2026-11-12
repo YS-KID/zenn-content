@@ -3,7 +3,7 @@ title: "Claude Code のスラッシュコマンド一覧をよく使う順に意
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "cli"]
-published: false
+published: true
 ---
 
 Claude Code のスラッシュコマンドは、公式の一覧に 110 件以上あります。全部覚える必要はありません。実際に毎日触るのは 6 つ程度で、残りは「困ったときに引く」ものです。この記事では、公式ドキュメントの一覧を使用頻度の順に組み替えて、それぞれの意味と使いどころを整理します。
