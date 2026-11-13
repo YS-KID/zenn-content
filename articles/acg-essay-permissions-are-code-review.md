@@ -3,7 +3,7 @@ title: "allow と deny と hooks を設計する仕事が新しいコードレ�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "permissions", "hooks"]
-published: false
+published: true
 ---
 
 AI エージェントを日常的に使う開発では、**最も効果の大きいレビュー対象はコードそのものから、allow と deny と hooks の設計へ移ります。** 事後に差分を読む作業がなくなるわけではありません。ただし、それより前に効く層が一つ増え、そちらのほうが止められる事故の数が多くなります。
