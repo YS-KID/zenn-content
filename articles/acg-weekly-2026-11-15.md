@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年11�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週いちばん影響が大きいのは、**Claude Code v2.1.321 の権限とサンドボックスの修正 4 件**です。いずれも「確認が出るはずの操作が出なかった」種類の抜けで、設定を変えずに挙動が変わります。更新を後回しにする理由がない回です。
