@@ -3,7 +3,7 @@ title: "Gemini CLI v0.68 で rootless Podman のサンドボックスとパス�
 emoji: "♊"
 type: "tech"
 topics: ["geminicli", "podman", "hooks"]
-published: true
+published: false
 ---
 
 Gemini CLI の v0.68.0 は、リリースノートに **まとめの文章が無く** PR の一覧だけが並ぶ回です。新機能は 1 件で、残りは修正です。
