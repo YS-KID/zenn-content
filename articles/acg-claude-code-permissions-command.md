@@ -3,7 +3,7 @@ title: "Claude Code の /permissions はルールの出どころまで表示す�
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "permissions"]
-published: false
+published: true
 ---
 
 権限まわりのトラブルは、たいてい「今どのルールが効いているのか分からない」ことが原因です。`settings.json` はユーザー・プロジェクト・ローカル・管理者と複数の場所にあり、手で追いかけると見落とします。
