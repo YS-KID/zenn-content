@@ -3,7 +3,7 @@ title: "Codex CLI v0.168 と v0.169 の変更点と codex exec の --trust が�
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "codexexec", "trustlevel"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.168.0 と v0.169.0 で、CI の運用に効く変更が 1 件入りました。**`codex exec` が、信頼していないプロジェクトの設定と MCP サーバーを読まなくなりました。**
