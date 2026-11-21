@@ -3,7 +3,7 @@ title: "CLAUDE.md と AGENTS.md は設計ドキュメントの復権なのか"
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudemd", "agentsmd"]
-published: false
+published: true
 ---
 
 **CLAUDE.md と AGENTS.md は設計ドキュメントの復権ではありません。** 設計書と違うのは「毎回読まれる」という 1 点だけで、その代わりに長さの上限と結合の優先順位という制約が付いています。設計書の体裁で書くとかえって効きが落ちる、別の種類の文書です。
