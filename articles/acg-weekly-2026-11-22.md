@@ -3,7 +3,7 @@ title: "今週の Claude Code・Codex・Gemini CLI 変更点まとめ(2026年11�
 emoji: "🛠️"
 type: "tech"
 topics: ["ai", "claudecode", "codex", "geminicli"]
-published: false
+published: true
 ---
 
 今週いちばん影響が大きいのは、**Claude Code v2.1.328 で Amazon Bedrock・Google Cloud's Agent Platform・Microsoft Foundry・Claude apps gateway でも auto モードが使えるようになった**ことです。追加されただけでなく、**権限モードを指定していない対話セッションはそのモードで始まります**。サードパーティプロバイダー経由で使っている場合、設定を変えていなくても確認プロンプトの出方が変わります。
