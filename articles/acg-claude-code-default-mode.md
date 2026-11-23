@@ -3,7 +3,7 @@ title: "Claude Code の開始モードは auto が既定、権限モード 6 種
 emoji: "🤖"
 type: "tech"
 topics: ["claudecode", "defaultmode", "acceptedits", "permissions"]
-published: false
+published: true
 ---
 
 Claude Code の `permissions.defaultMode` は、「allow にも deny にも一致しなかった操作をどう扱うか」を決める設定です。指定できる値は **6 つ**あります。

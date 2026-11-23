@@ -3,7 +3,7 @@ title: "Codex CLI v0.170 の変更点と permissions プロファイルが sandb
 emoji: "🧭"
 type: "tech"
 topics: ["codex", "codexcli", "permissions"]
-published: false
+published: true
 ---
 
 Codex CLI の v0.170.0 は、**サンドボックスの制限が失われる問題の修正**が入ったリリースです。緩む方向の不具合なので、更新を後回しにする理由がありません。
