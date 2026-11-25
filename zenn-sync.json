@@ -1,5 +1,5 @@
 {
-  "last_release": "2026-11-23T23:32:13+00:00",
+  "last_release": "2026-11-25T07:30:16+00:00",
   "published": {
     "acg-claude-code-attribution-trailer": "2026-10-21T21:22:51+00:00",
     "acg-claude-code-auto-memory-disable": "2026-10-23T03:49:03+00:00",
@@ -14,6 +14,8 @@
     "acg-claude-code-default-mode": "2026-11-23T23:32:13+00:00",
     "acg-claude-code-deny-read-env": "2026-11-14T13:08:17+00:00",
     "acg-claude-code-getting-started": "2026-10-14T16:45:16+00:00",
+    "acg-claude-code-git-worktree-parallel": "2026-11-25T07:30:16+00:00",
+    "acg-claude-code-github-actions": "2026-11-25T07:30:16+00:00",
     "acg-claude-code-hooks-block-rm": "2026-10-09T12:46:10+00:00",
     "acg-claude-code-hooks-matcher": "2026-10-17T03:26:32+00:00",
     "acg-claude-code-hooks-stdin-json": "2026-10-15T21:02:43+00:00",
